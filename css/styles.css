@@ -164,6 +164,7 @@ h1, h2, h3 {
     position: static;
     transform: rotate(0);
     padding-top: 50px;
+    text-align: center;
   }
 }
 
