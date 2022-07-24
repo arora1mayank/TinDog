@@ -50,12 +50,10 @@ h1, h2, h3 {
 }
 
 /* Title Section */
-#title {
-  text-align: left;
-}
 
 #title .container-fluid {
   padding: 3% 15% 7%;
+  text-align: left;
 }
 
 .title-head {
@@ -164,6 +162,8 @@ h1, h2, h3 {
     position: static;
     transform: rotate(0);
     padding-top: 50px;
+  }
+  #title .container-fluid{
     text-align: center;
   }
 }
